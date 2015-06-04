@@ -4,6 +4,7 @@
   "private": true,
   "author": "thomas.hansen@gmail.com",
   "dependencies": {
+    "express": "^4.12.4",
     "jquery": "^2.1.4"
   },
   "devDependencies": {
